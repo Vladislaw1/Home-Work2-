@@ -144,3 +144,9 @@ footer {
 .filter-list {
   list-style: none;
 }
+.work-list .text {
+  color: var(--acent-color);
+}
+.work-list .link {
+  text-decoration: none;
+}
